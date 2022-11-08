@@ -1,4 +1,4 @@
- Avançando na automação de testes, #Cypress #JS #Robot #Python #Appium #Docker 
+ Avançando na automação de testes, #Cypress #JS #Robot #Python  
 
 <div align="center">
   <a href="https://github.com/JonasDominguini">
